@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86070207fc9431468ff20b105f8830c, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'Hey! Welcome to the test of Lily''s DialogeUI!
+
+    Make yourself at home, and
+    press SPACE to continue!'
+  - Good job! You did it, I'm so proud :')
+  responses:
+  - responseText: Thank you!
+    dialogueObject: {fileID: 11400000, guid: 1b15a009c91177044b47a97b241bd1fe, type: 2}
