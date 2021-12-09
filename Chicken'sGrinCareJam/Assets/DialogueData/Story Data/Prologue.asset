@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86070207fc9431468ff20b105f8830c, type: 3}
+  m_Name: Prologue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - In a distant forest, a small human child was left alone, crying in the woods.
+  - But no matter how hard he cried, no one came to his aid.
+  - At least, no human did.
+  - A lone fairy who kept watch over the forest found him and decided to take him
+    in.
+  - She regarded him as her son and took care of him over the years.
+  - This is their story.
+  responses: []
